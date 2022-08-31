@@ -1,1 +1,5 @@
-# qsfp_ddr_exp
+# Fidus Aurora Reference Design
+
+![Design Schematic](/image/design.png)
+
+
